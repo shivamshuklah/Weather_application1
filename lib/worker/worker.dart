@@ -49,7 +49,7 @@ class worker {
       description = getDesc;
       main = getMain_des;
       icon = getIcon.toString();
-      //city
+      //city variable
       city = data['name'];
 
       print(

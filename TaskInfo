@@ -1,0 +1,22 @@
+
+Task 1: Flutter Weather App with API Integration
+Description:
+Develop a weather app using Flutter that displays weather information for a user's selected location. The app should retrieve weather data from a public weather API.
+
+Requirements:
+
+UI Design:
+Main screen with a text input field for the city name.
+Display temperature in degrees and other weather-related information with proper styling.
+API Integration:
+Integrate a public weather API (e.g., OpenWeatherMap) to fetch weather data based on user input or device location.
+Display fetched weather data on the main screen.
+State Management:
+Use Provider to manage the state of the app.
+Bonus (Optional):
+
+Implement a dynamic background based on current weather conditions.
+Add error handling and user-friendly error messages for API request failures or location permission issues.
+Submission:
+Provide the source code for the Flutter weather app, along with instructions for running it and accessing the API key (if required). Share the code via a GitHub repository or another preferred format.
+

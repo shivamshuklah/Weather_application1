@@ -6,7 +6,7 @@ void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
 
-    //home: Loading(),
+    ///home: Loading(),
     routes: {
       "/": (context) => Loading(),
       "/home": (context) => Home(),

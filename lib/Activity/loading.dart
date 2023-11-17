@@ -54,7 +54,7 @@ class _LoadingState extends State<Loading> {
     super.setState(fn);
 
     //location = passed_location;
-    //startApp();
+    ///startApp();
   }
 
   @override
